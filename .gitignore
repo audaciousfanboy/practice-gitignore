@@ -1,0 +1,5 @@
+.DS_Store
+secrets.txt
+sample.txt
+#comment
+#*.txt ignore all text files
